@@ -5,12 +5,6 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/   
-    
-  - title: "Startups & Initiatives"
-    url: /startups/
     
   - title: "Projects"
     url: /projects/
@@ -20,9 +14,6 @@ main:
     
   - title: "Awards & Certifications"
     url: /certifications/  
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Contact Me"
     url: /contact/

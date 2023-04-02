@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "WiCyS Amrita Students Chapter"
 title_separator          : "-"
-name                     : &name "(WiCyS)"
+name                     : &name "WiCyS Amrita Students Chapter"
 description              : &description "Amrita Vishwa Vidyapeetham"
 url                      : https://wicys-amrita.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

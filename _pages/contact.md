@@ -15,7 +15,7 @@ author_profile: true
 Faculty Advisor <br/>
 +91 97918 39567 <br/>
 m_ashokkumar[at]ahead[dot]amrita[dot]edu</p>
-<br/>
+
 <p>
 <b>Mr. Ramaguru Radhakrishnan </b><br/>
 Faculty Advisor <br/>

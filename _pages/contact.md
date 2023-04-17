@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule a meeting"
+title: "Contact Details"
 permalink: /contact/
 author_profile: true
 ---

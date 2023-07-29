@@ -11,12 +11,6 @@ author_profile: true
 
 <b>Faculty Contact:</b>
 <p>
-<b>Mr. Ashok Kumar Mohan </b><br/>
-Faculty Advisor <br/>
-+91 97918 39567 <br/>
-m_ashokkumar[at]ahead[dot]amrita[dot]edu</p>
-
-<p>
 <b>Mr. Ramaguru Radhakrishnan </b><br/>
 Faculty Advisor <br/>
 +91 86670 31693 <br/>
